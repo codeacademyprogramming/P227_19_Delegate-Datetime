@@ -1,0 +1,14 @@
+C:\Users\Eagha\Desktop\CodeLessons\P227\27. 21-06-2022\21062022\CollectionTask\obj\Debug\netcoreapp3.1\CollectionTask.csproj.AssemblyReference.cache
+C:\Users\Eagha\Desktop\CodeLessons\P227\27. 21-06-2022\21062022\CollectionTask\obj\Debug\netcoreapp3.1\CollectionTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eagha\Desktop\CodeLessons\P227\27. 21-06-2022\21062022\CollectionTask\obj\Debug\netcoreapp3.1\CollectionTask.AssemblyInfoInputs.cache
+C:\Users\Eagha\Desktop\CodeLessons\P227\27. 21-06-2022\21062022\CollectionTask\obj\Debug\netcoreapp3.1\CollectionTask.AssemblyInfo.cs
+C:\Users\Eagha\Desktop\CodeLessons\P227\27. 21-06-2022\21062022\CollectionTask\obj\Debug\netcoreapp3.1\CollectionTask.csproj.CoreCompileInputs.cache
+C:\Users\Eagha\Desktop\CodeLessons\P227\27. 21-06-2022\21062022\CollectionTask\bin\Debug\netcoreapp3.1\CollectionTask.exe
+C:\Users\Eagha\Desktop\CodeLessons\P227\27. 21-06-2022\21062022\CollectionTask\bin\Debug\netcoreapp3.1\CollectionTask.deps.json
+C:\Users\Eagha\Desktop\CodeLessons\P227\27. 21-06-2022\21062022\CollectionTask\bin\Debug\netcoreapp3.1\CollectionTask.runtimeconfig.json
+C:\Users\Eagha\Desktop\CodeLessons\P227\27. 21-06-2022\21062022\CollectionTask\bin\Debug\netcoreapp3.1\CollectionTask.runtimeconfig.dev.json
+C:\Users\Eagha\Desktop\CodeLessons\P227\27. 21-06-2022\21062022\CollectionTask\bin\Debug\netcoreapp3.1\CollectionTask.dll
+C:\Users\Eagha\Desktop\CodeLessons\P227\27. 21-06-2022\21062022\CollectionTask\bin\Debug\netcoreapp3.1\CollectionTask.pdb
+C:\Users\Eagha\Desktop\CodeLessons\P227\27. 21-06-2022\21062022\CollectionTask\obj\Debug\netcoreapp3.1\CollectionTask.dll
+C:\Users\Eagha\Desktop\CodeLessons\P227\27. 21-06-2022\21062022\CollectionTask\obj\Debug\netcoreapp3.1\CollectionTask.pdb
+C:\Users\Eagha\Desktop\CodeLessons\P227\27. 21-06-2022\21062022\CollectionTask\obj\Debug\netcoreapp3.1\CollectionTask.genruntimeconfig.cache
